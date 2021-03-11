@@ -1,6 +1,6 @@
 # HPC-AI Discussion
 
-### 🌟 Virtual HPC AI seminar, 2021 Spring to Fall
+### 🌟 Virtual HPC+AI seminar, 2021 Spring to Fall
 
 - **When:** 🕒 Fridays 3PM-5PM
 - **Where:** 💻 Wechat meeting. Please send me an email (jiaweile at ict do
@@ -11,9 +11,9 @@ t ac dot cn) to ask for the meeting id.
 
 <div align="center">
   <h3>Week 1</h3>
-  <h1>On </h1>
-  <strong>Jeffmin Lin</strong>
-  <h6>March 5th, 10:40 am -- 12 pm</h6>
+  <h1> DFT and numerical methods. </h1>
+  <strong>Weile Jia</strong>
+  <h6>March 19th, 3:00 pm -- 5 pm</h6>
 </div>
 
 
@@ -21,7 +21,7 @@ t ac dot cn) to ask for the meeting id.
 -----
 ## 📌 Schedule (2021 Spring)
 
-🆕✨🔨: [**reserve the time**](https://calendly.com/jiahaoyao-math/math-290-booking-time?month=2021-01) for [spring semester](https://registrar.berkeley.edu/sites/default/files/pdf/UCB_AcademicCalendar_2020-21_V3.pdf)!
+🆕✨🔨: [**reserve the time**]( please contact Siyu to book time slot for your talk) for spring 2021! 
 
 | Week | Date | Topic                                                                                     | Speaker               | References |
 | ---- | ---- | ----------------------------------------------------------------------------------------- | --------------------- | ---------- |
