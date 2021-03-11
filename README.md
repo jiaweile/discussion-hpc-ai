@@ -1,17 +1,17 @@
-# MATH 290:electron:	
+# HPC-AI Discussion
 
-### 🌟 Virtual quantum many-body seminar, 2020 Fall to 2021 Summer
+### 🌟 Virtual HPC AI seminar, 2021 Spring to Fall
 
-- **When:** 🕒 Fridays 10AM-12PM
-- **Where:** 💻 Zoom. Please send me an email (linlin at math dot
-  berkeley dot edu) to ask for the zoom id.
-- **Moderator**: Jiahao Yao
+- **When:** 🕒 Fridays 3PM-5PM
+- **Where:** 💻 Wechat meeting. Please send me an email (jiaweile at ict do
+t ac dot cn) to ask for the meeting id.
+- **Moderator**: Siyu Hu
 
 ---------
 
 <div align="center">
-  <h3>Week 9</h3>
-  <h1>On Representing (Anti)Symmetric Functions </h1>
+  <h3>Week 1</h3>
+  <h1>On </h1>
   <strong>Jeffmin Lin</strong>
   <h6>March 5th, 10:40 am -- 12 pm</h6>
 </div>
