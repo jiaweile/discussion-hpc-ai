@@ -2,7 +2,7 @@
 
 ### 🌟 Virtual HPC+AI seminar, 2021 Spring to Fall
 
-- **When:** 🕒 Friday 3P:00 pm -- 5:00 pm
+- **When:** 🕒 Wednesday 3P:00 pm -- 5:00 pm
 - **Where:** 💻 Wechat meeting. 
   Please send me an email (jiaweile@ict.ac.cn) to ask for the meeting id.
 - **Moderator**: Siyu Hu
@@ -26,26 +26,27 @@
 
 | Week | Date | Topic                                                                                     | Speaker               | References |
 | ---- | ---- | ----------------------------------------------------------------------------------------- | --------------------- | ---------- |
-| 1    | 3/19 | Enhancing the scalability and load balancing of the parallel selected inversion algorithm via tree-based asynchronous communication| Siyu HU and Yujin Yan    |            |
-| 2    | 3/26 |           |  |            |
-| 3    | 4/2  |           |  |            |
-| 4    | 4/9  |           |  |            |
-| 5    | 4/16 |           |  |            |
-| 6    | 4/23 |           |  |            |
-| 7    | 4/30 |           |  |            |
-| 8    | 5/7  |           |  |            |
-| 9    | 5/14 |           |  |            |
-| 10   | 5/21 |           |  |            |
-| 11   | 5/28 |                                                                                           |           |            |
-| 12   | 6/4  |                                                                                           |           |            |
-| 13   | 6/11 |                                                                                           |           |            |
-| 14   | 6/18 |                                                                                           |           |            |
+| 1    | 3/24 | DFT overview/ selected inversion / some comments on the DeepMD-kit/ on the DFT algorithm. | Siyu HU and Yujin Yan, Weile Jia    |            |
+| 2    | 3/31 |           |  |            |
+| 3    | 4/7  |           |  |            |
+| 4    | 4/14  |           |  |            |
+| 5    | 4/21 |           |  |            |
+| 6    | 4/28 |           |  |            |
+| 7    | 5/5 |           |  |            |
+| 8    | 5/12  |           |  |            |
+| 9    | 5/19 |           |  |            |
+| 10   | 5/26 |           |  |            |
+| 11   | 6/2 |                                                                                           |           |            |
+| 12   | 6/9  |                                                                                           |           |            |
+| 13   | 6/16 |                                                                                           |           |            |
+| 14   | 6/23 |                                                                                           |           |            |
 
   
 ## 🗂 Reading materials 
-
+<!----
 <details>
 <summary>View contents</summary>
+-->
 
 ###### 1
 [Pushing the Limit of Molecular Dynamics with Ab Initio Accuracy to 100 Million Atoms with Machine Learning](https://arxiv.org/pdf/2005.00223.pdf)
