@@ -11,8 +11,8 @@
 
 <div align="center">
   <h3>Let's start!</h3>
-  <h1> DFT and its numerical methods. </h1>
-  <h1> Enhacing the scalability of selected inversion </h1>
+  <h1> Week 1 </h1>
+  <h1> Math perspective of DFT/ Overview of DFT algorithm/Enhacing the scalability of selected inversion </h1>
   <strong>Yujin Yan, Siyu Hu</strong>
   <h6>March 26th, 3:00 pm -- 5:00 pm</h6>
 </div>
