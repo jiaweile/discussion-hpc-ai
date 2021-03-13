@@ -2,7 +2,7 @@
 
 ### 🌟 Virtual HPC+AI seminar, 2021 Spring to Fall
 
-- **When:** 🕒 Fridays 3P:00 pm -- 5:00 pm
+- **When:** 🕒 Friday 3P:00 pm -- 5:00 pm
 - **Where:** 💻 Wechat meeting. 
   Please send me an email (jiaweile@ict.ac.cn) to ask for the meeting id.
 - **Moderator**: Siyu Hu
@@ -11,9 +11,10 @@
 
 <div align="center">
   <h3>Let's start!</h3>
-  <h1> DFT and numerical methods. </h1>
-  <strong>Weile Jia</strong>
-  <h6>March 19th, 3:00 pm -- 5:00 pm</h6>
+  <h1> DFT and its numerical methods. </h1>
+  <h1> Enhacing the scalability of selected inversion </h1>
+  <strong>Yujin Yan, Siyu Hu</strong>
+  <h6>March 26th, 3:00 pm -- 5:00 pm</h6>
 </div>
 
 
@@ -25,7 +26,7 @@
 
 | Week | Date | Topic                                                                                     | Speaker               | References |
 | ---- | ---- | ----------------------------------------------------------------------------------------- | --------------------- | ---------- |
-| 1    | 3/19 | Enhancing the scalability and load balancing of the parallel selected inversion algorithm via tree-based asynchronous communication| Siyu HU      |            |
+| 1    | 3/19 | Enhancing the scalability and load balancing of the parallel selected inversion algorithm via tree-based asynchronous communication| Siyu HU and Yujin Yan    |            |
 | 2    | 3/26 |           |  |            |
 | 3    | 4/2  |           |  |            |
 | 4    | 4/9  |           |  |            |
