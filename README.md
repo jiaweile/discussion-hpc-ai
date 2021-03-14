@@ -145,4 +145,10 @@
 
 1. [A Quantum Algorithm for the Sensitivity Analysis of Business Risks](https://arxiv.org/pdf/2103.05475.pdf)
 
-2. 
+2. [Transferability of machine learning potentials: Protonated water neural network potential applied to the protonated water hexamer](https://aip.scitation.org/doi/full/10.1063/5.0035438)
+
+3. [When do short-range atomistic machine-learning models fall short?](https://aip.scitation.org/doi/full/10.1063/5.0031215?casa_token=t8DwcF92hUcAAAAA%3Ai3KVvyHNG1XpzZomieQcZZosmnyFwvOkJdJnj9OcDpWrxanc_vlvqGhrXeTF-cLfKV2YLV6UVU5m)
+
+4. [Accelerating atomistic simulations with piecewise machine-learned ab Initio potentials at a classical force field-like cost](https://pubs.rsc.org/fa/content/articlehtml/2021/cp/d0cp05089j?casa_token=dv9BUNc08JYAAAAA:0PBcE84WyLsGvBM-02RSWjT9KS4LCeqgmqJbR4t4OsDHe4X3FdMsxjb7rRlwmRaChOYyrbvemxCPzpM)
+
+5. [Optimizing Training Data Set for the Machine Learning Potential of Li-Si Alloys via Structural Similarity-based Screening](https://arxiv.org/abs/2103.04347)
