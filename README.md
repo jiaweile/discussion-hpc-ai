@@ -136,6 +136,12 @@
 >
 > **Arxiv 2018**
 
+###### 13
+
+[Machine-learning interatomic potentials for material science](https://arxiv.org/pdf/2102.06163.pdf)
+> Y. Mishin 
+>
+> **Arxiv 2021**
 
 <br>[⬆ Back to top](#-reading-materials)
 
