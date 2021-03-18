@@ -2,7 +2,7 @@
 
 ### 🌟 Virtual HPC+AI seminar, 2021 Spring to Fall
 
-- **When:** 🕒 Wednesday 3P:00 pm -- 5:00 pm
+- **When:** 🕒 Wednesday  3:00 pm -- 5:00 pm
 - **Where:** 💻 Wechat meeting. 
   Please send me an email (jiaweile@ict.ac.cn) to ask for the meeting id.
 - **Moderator**: Siyu Hu
@@ -26,7 +26,7 @@
 
 | Week | Date | Topic                                                                                     | Speaker               | References |
 | ---- | ---- | ----------------------------------------------------------------------------------------- | --------------------- | ---------- |
-| 1    | 3/24 | DFT overview <br> selected inversion <br> some comments on the DeepMD-kit/ on the DFT algorithm. | Siyu HU and Yujin Yan, Weile Jia    |            |
+| 1    | 3/24 | DFT overview <br> selected inversion <br> some comments on the DeepMD-kit on the DFT algorithm. | Siyu HU and Yujin Yan, Weile Jia    |            |
 | 2    | 3/31 | deep learning for symbolic mathematics & Seq2Seq          | Junqing Gong |            |
 | 3    | 4/7  |           |  |            |
 | 4    | 4/14  |           |  |            |
