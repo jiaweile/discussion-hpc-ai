@@ -26,8 +26,8 @@
 
 | Week | Date | Topic                                                                                     | Speaker               | References |
 | ---- | ---- | ----------------------------------------------------------------------------------------- | --------------------- | ---------- |
-| 1    | 3/24 | DFT overview/ selected inversion / some comments on the DeepMD-kit/ on the DFT algorithm. | Siyu HU and Yujin Yan, Weile Jia    |            |
-| 2    | 3/31 |           |  |            |
+| 1    | 3/24 | DFT overview <br> selected inversion <br> some comments on the DeepMD-kit/ on the DFT algorithm. | Siyu HU and Yujin Yan, Weile Jia    |            |
+| 2    | 3/31 | deep learning for symbolic mathematics & Seq2Seq          | Junqing Gong |            |
 | 3    | 4/7  |           |  |            |
 | 4    | 4/14  |           |  |            |
 | 5    | 4/21 |           |  |            |
