@@ -11,7 +11,7 @@
 
 <div align="center">
   <h3>Let's start!</h3>
-  <h1> Week 1 </h1>
+  <h1> Week 2 </h1>
   <h1> Deep Learning for symbolic mathmetics / Overview of DFT algorithm </h1>
   <strong>Junqing Gong, Weile Jia</strong>
   <h6>March 31, 3:00 pm -- 5:00 pm</h6>
