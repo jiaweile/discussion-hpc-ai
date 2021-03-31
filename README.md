@@ -11,10 +11,10 @@
 
 <div align="center">
   <h3>Let's start!</h3>
-  <h1> Week 2 </h1>
-  <h1> Deep Learning for symbolic mathmetics / Overview of DFT algorithm </h1>
-  <strong>Junqing Gong, Weile Jia</strong>
-  <h6>March 31, 3:00 pm -- 5:00 pm</h6>
+  <h1> Week 3 </h1>
+  <h1> Application of Quantum Computing in Quantum Chemistry </h1>
+  <strong> Zhendong Li </strong>
+  <h6>April 7, 3:00 pm -- 5:00 pm</h6>
 </div>
 
 
@@ -27,16 +27,16 @@
 | Week | Date | Topic                                                                                     | Speaker               | References |
 | ---- | ---- | ----------------------------------------------------------------------------------------- | --------------------- | ---------- |
 | 1    | 3/24 | DFT overview <br> selected inversion <br> some comments on the DeepMD-kit on the DFT algorithm. | Siyu HU and Yujin Yan, Weile Jia    |            |
-| 2    | 3/31 | deep learning for symbolic mathematics & Seq2Seq          | Junqing Gong |            |
-| 3    | 4/7  |           |  |            |
-| 4    | 4/14  |           |  |            |
-| 5    | 4/21 |           |  |            |
-| 6    | 4/28 |           |  |            |
-| 7    | 5/5 |           |  |            |
-| 8    | 5/12  |           |  |            |
+| 2    | 3/31 | [deep learning for symbolic mathematics & Seq2Seq](#14)   | Junqing Gong |            |
+| 3    | 4/7  | Application of Quantum Computing in Quantum Chemistry     | Zhendong Li  |            |
+| 4    | 4/14 |           | Zhuoqiang Guo  |            |
+| 5    | 4/21 |           | Tao LIU        |            |
+| 6    | 4/28 |           | Yun ZHONG      |            |
+| 7    | 5/5  |           |  |            |
+| 8    | 5/12 |           |  |            |
 | 9    | 5/19 |           |  |            |
 | 10   | 5/26 |           |  |            |
-| 11   | 6/2 |                                                                                           |           |            |
+| 11   | 6/2  |                                                                                           |           |            |
 | 12   | 6/9  |                                                                                           |           |            |
 | 13   | 6/16 |                                                                                           |           |            |
 | 14   | 6/23 |                                                                                           |           |            |
@@ -142,6 +142,13 @@
 > Y. Mishin 
 >
 > **Arxiv 2021**
+
+###### 14
+
+[DEEP LEARNING FOR SYMBOLIC MATHEMATICS](https://arxiv.org/abs/1912.01412)
+> Guillaume Lample, François Charton
+>
+> **ArXiv 2019**
 
 <br>[⬆ Back to top](#-reading-materials)
 
