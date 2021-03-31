@@ -22,11 +22,19 @@
 -----
 ## 📌 Schedule (2021 Spring)
 
+<style>
+    table th: nth-of-type(3){
+        width: 20cm;
+    }
+</style>
+
+
+
 🆕✨🔨: **reserve the time** \(please contact husiyu@ncic.ac.cn to book time slot for your talk\) for spring 2021! 
 
 | Week | Date | Topic                                                                                     | Speaker               | References |
-| ---- | ---- | ----------------------------------------------------------------------------------------- | --------------------- | ---------- |
-| 1    | 3/24 | DFT overview <br> selected inversion <br> some comments on the DeepMD-kit on the DFT algorithm. | Siyu HU and Yujin Yan, Weile Jia    |            |
+| ---- | ---- | :---------------------------------------------------------------------------------------: | --------------------- | ---------- |
+| 1    | 3/24 | DFT overview <br> [selected inversion](#1) <br> some comments on the DeepMD-kit on the DFT algorithm. | Yujin Yan<br>Siyu HU<br>Weile Jia |            |
 | 2    | 3/31 | [deep learning for symbolic mathematics & Seq2Seq](#14)   | Junqing Gong |            |
 | 3    | 4/7  | Application of Quantum Computing in Quantum Chemistry     | Zhendong Li  |            |
 | 4    | 4/14 |           | Zhuoqiang Guo  |            |
@@ -41,7 +49,7 @@
 | 13   | 6/16 |                                                                                           |           |            |
 | 14   | 6/23 |                                                                                           |           |            |
 
-  
+
 ## 🗂 Reading materials 
 <!----
 <details>
