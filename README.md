@@ -26,6 +26,9 @@
     table th: nth-of-type(3){
         width: 20cm;
     }
+    table th: nth-of-type(4){
+        width: 8cm
+  }
 </style>
 
 
