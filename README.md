@@ -24,7 +24,7 @@
 
 <style>
     table th: nth-of-type(3){
-        width: 20cm;
+        width: 15cm;
     }
     table th: nth-of-type(4){
         width: 8cm;
@@ -38,7 +38,7 @@
 
 | Week | Date | Topic                                                                                     | Speaker               | References |
 | ---- | ---- | :---------------------------------------------------------------------------------------: | --------------------- | ---------- |
-| 1    | 3/24 | DFT overview <br> [selected inversion](#1) <br> some comments on the DeepMD-kit on the DFT algorithm. | Yujin Yan<br>Siyu HU<br>Weile Jia |            |
+| 1    | 3/24 | DFT overview <br> [selected inversion](#1) <br> the DeepMD-kit on the DFT algorithm. | Yujin Yan<br>Siyu HU<br>Weile Jia |            |
 | 2    | 3/31 | [deep learning for symbolic mathematics & Seq2Seq](#14)   | Junqing Gong |            |
 | 3    | 4/7  | Application of Quantum Computing in Quantum Chemistry     | Zhendong Li  |            |
 | 4    | 4/14 | [Accelerating Sparse DNN Models without Hardware-Support via Tile-Wise Sparsity](#15) | Zhuoqiang Guo  |            |
