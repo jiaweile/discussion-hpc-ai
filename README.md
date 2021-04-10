@@ -11,10 +11,10 @@
 
 <div align="center">
   <h3>Let's start!</h3>
-  <h1> Week 3 </h1>
-  <h1> Application of Quantum Computing in Quantum Chemistry </h1>
-  <strong> Zhendong Li </strong>
-  <h6>April 7, 3:00 pm -- 5:00 pm</h6>
+  <h1> Week 4 </h1>
+  <h1> Accelerating Sparse DNN Models without Hardware-Support via Tile-Wise Sparsity </h1>
+  <strong> Zhuoqiang Guo </strong>
+  <h6>April 14, 3:00 pm -- 5:00 pm</h6>
 </div>
 
 
@@ -37,7 +37,7 @@
 | 1    | 3/24 | DFT overview <br> [selected inversion](#1) <br> some comments on the DeepMD-kit on the DFT algorithm. | Yujin Yan<br>Siyu HU<br>Weile Jia |            |
 | 2    | 3/31 | [deep learning for symbolic mathematics & Seq2Seq](#14)   | Junqing Gong |            |
 | 3    | 4/7  | Application of Quantum Computing in Quantum Chemistry     | Zhendong Li  |            |
-| 4    | 4/14 |           | Zhuoqiang Guo  |            |
+| 4    | 4/14 | [Accelerating Sparse DNN Models without Hardware-Support via Tile-Wise Sparsity](#15) | Zhuoqiang Guo  |            |
 | 5    | 4/21 |           | Tao LIU        |            |
 | 6    | 4/28 |           | Yun ZHONG      |            |
 | 7    | 5/5  |           |  |            |
@@ -157,6 +157,13 @@
 > Guillaume Lample, François Charton
 >
 > **ArXiv 2019**
+
+###### 15
+
+[Accelerating Sparse DNN Models without Hardware-Support via Tile-Wise Sparsity](https://arxiv.org/pdf/2008.13006.pdf)
+> Cong Guo, Bo Yang Hsueh
+>
+> **ArXiv 2008**
 
 <br>[⬆ Back to top](#-reading-materials)
 
