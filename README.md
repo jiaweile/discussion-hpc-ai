@@ -41,17 +41,17 @@
 | 1    | 3/24 | DFT overview <br> [selected inversion](#1) <br> the DeepMD-kit on the DFT algorithm. | Yujin Yan<br>Siyu HU<br>Weile Jia |            |
 | 2    | 3/31 | [deep learning for symbolic mathematics & Seq2Seq](#14)   | Junqing Gong |            |
 | 3    | 4/7  | Application of Quantum Computing in Quantum Chemistry     | Zhendong Li  |            |
-| 4    | 4/14 | [Accelerating Sparse DNN Models without Hardware-Support via Tile-Wise Sparsity](#15) | Zhuoqiang Guo  |            |
-| 5    | 4/21 |           | Tao LIU        |            |
-| 6    | 4/28 |           | Yun ZHONG      |            |
-| 7    | 5/5  |           |  |            |
-| 8    | 5/12 |           |  |            |
-| 9    | 5/19 |           |  |            |
-| 10   | 5/26 |           |  |            |
-| 11   | 6/2  |                                                                                           |           |            |
-| 12   | 6/9  |                                                                                           |           |            |
-| 13   | 6/16 |                                                                                           |           |            |
-| 14   | 6/23 |                                                                                           |           |            |
+| 4    | 4/21 | [Accelerating Sparse DNN Models without Hardware-Support via Tile-Wise Sparsity](#15) | Zhuoqiang Guo  |            |
+| 5    | 4/28 |           | Tao LIU        |            |
+| 6    | 5/5 |           | Yun ZHONG      |            |
+| 7    | 5/12  |           |  |            |
+| 8    | 5/19 |           |  |            |
+| 9    | 5/26 |           |  |            |
+| 10   | 6/2 |           |  |            |
+| 11   | 6/9  |                                                                                           |           |            |
+| 12   | 6/16  |                                                                                           |           |            |
+| 13   | 6/23 |                                                                                           |           |            |
+| 14   | 6/30 |                                                                                           |           |            |
 
 
 ## 🗂 Reading materials 
