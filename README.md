@@ -14,21 +14,13 @@
   <h1> Week 4 </h1>
   <h1> Accelerating Sparse DNN Models without Hardware-Support via Tile-Wise Sparsity </h1>
   <strong> Zhuoqiang Guo </strong>
-  <h6>April 14, 3:00 pm -- 5:00 pm</h6>
+  <h6>April 21, 3:00 pm -- 5:00 pm</h6>
 </div>
 
 
 
 -----
 ## 📌 Schedule (2021 Spring)
-
-<style>
-    table th: nth-of-type(3){
-        width: 15cm;
-    }
-</style>
-
-
 
 
 🆕✨🔨: **reserve the time** \(please contact husiyu@ncic.ac.cn to book time slot for your talk\) for spring 2021! 
