@@ -11,10 +11,10 @@
 
 <div align="center">
   <h3>Let's start!</h3>
-  <h1> Week 4 </h1>
-  <h1> Accelerating Sparse DNN Models without Hardware-Support via Tile-Wise Sparsity </h1>
-  <strong> Zhuoqiang Guo </strong>
-  <h6>April 21, 3:00 pm -- 5:00 pm</h6>
+  <h1> Week 5 </h1>
+  <h1> SchNet: A continuous-filter convolutional neural network for modeling quantum interactions</h1>
+  <strong> Tao LIU </strong>
+  <h6>April 28, 3:00 pm -- 5:00 pm</h6>
 </div>
 
 
@@ -29,9 +29,9 @@
 | ---- | ---- | :---------------------------------------------------------------------------------------: | --------------------- | ---------- |
 | 1    | 3/24 | DFT overview <br> [selected inversion](#1) <br> the DeepMD-kit on the DFT algorithm. | Yujin Yan<br>Siyu HU<br>Weile Jia |            |
 | 2    | 3/31 | [deep learning for symbolic mathematics & Seq2Seq](#14)   | Junqing Gong |            |
-| 3    | 4/7  | Application of Quantum Computing in Quantum Chemistry     | <font size=2>Zhendong Li</font>  |            |
-| 4    | 4/21 | [Accelerating Sparse DNN Models without Hardware-Support via Tile-Wise Sparsity](#15) | <font size=2>Zhuoqiang Guo</font>  |            |
-| 5    | 4/28 |           | Tao LIU        |            |
+| 3    | 4/7  | Application of Quantum Computing in Quantum Chemistry     | Zhendong Li  |            |
+| 4    | 4/21 | [Accelerating Sparse DNN Models without Hardware-Support via Tile-Wise Sparsity](#15) | Zhuoqiang Guo|            |
+| 5    | 4/28 | [SchNet: A continuous-filter convolutional neural network for modeling quantum interactions](#11) | Tao LIU        |            |
 | 6    | 5/5 |           | Yun ZHONG      |            |
 | 7    | 5/12  |           |  |            |
 | 8    | 5/19 |           |  |            |
