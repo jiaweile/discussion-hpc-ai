@@ -11,10 +11,10 @@
 
 <div align="center">
   <h3>Let's start!</h3>
-  <h1> Week 5 </h1>
-  <h1> SchNet: A continuous-filter convolutional neural network for modeling quantum interactions</h1>
-  <strong> Tao LIU </strong>
-  <h6>April 28, 3:00 pm -- 5:00 pm</h6>
+  <h1> Week 6 </h1>
+  <h1> DP-GEN: A concurrent learning platform for the generation of reliable deep learning based potential energy models </h1>
+  <strong> Yun ZHONG </strong>
+  <h6> May 12, 3:00 pm -- 5:00 pm</h6>
 </div>
 
 
@@ -32,15 +32,15 @@
 | 3    | 4/7  | Application of Quantum Computing in Quantum Chemistry     | Zhendong Li  |            |
 | 4    | 4/21 | [Accelerating Sparse DNN Models without Hardware-Support via Tile-Wise Sparsity](#15) | Zhuoqiang Guo|            |
 | 5    | 4/28 | [SchNet: A continuous-filter convolutional neural network for modeling quantum interactions](#11) | Tao LIU        |            |
-| 6    | 5/5 |           | Yun ZHONG      |            |
-| 7    | 5/12  |           |Han BAO  |            |
-| 8    | 5/19 |[Anatomy of High-Performance Matrix Multiplication](#16)|Chunyang Xiang|            |
-| 9    | 5/26 |           |  |            |
-| 10   | 6/2 |           |  |            |
-| 11   | 6/9  |                                                                                           |           |            |
-| 12   | 6/16  |                                                                                           |           |            |
-| 13   | 6/23 |                                                                                           |           |            |
-| 14   | 6/30 |                                                                                           |           |            |
+| 6    | 5/12 | [DP-GEN](#3)          | Yun ZHONG      |            |
+| 7    | 5/19 | [Anatomy of High-Performance Matrix Multiplication](#16)          | Chunyang Xiang|            |
+| 8    | 5/26 | DFT overview|Yujin Yan|            |
+| 9    | 6/2  |           | Han BAO  |            |
+| 10   | 6/9  |           |  |            |
+| 11   | 6/16 |                                                                                           |           |            |
+| 12   | 6/23 |                                                                                           |           |            |
+| 13   | 6/30 |                                                                                           |           |            |
+| 14   | 7/7  |                                                                                           |           |            |
 
 
 ## 🗂 Reading materials 
