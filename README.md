@@ -73,7 +73,7 @@
 
 ###### 4 
 
-[Reactive uptake of N2O5 by atmospheric aerosol is dominated by interfacial processes](https://arxiv.org/pdf/1910.04292.pdf)
+[Reactive uptake of N2O5 by atmospheric aerosol is dominated by interfacial processes](https://science.sciencemag.org/content/371/6532/921/tab-pdf)
 
 > Mirza Galib and David T. Limmer
 >
