@@ -35,7 +35,7 @@
 | 6    | 5/12 | [DP-GEN](#3)          | Yun ZHONG      |            |
 | 7    | 5/19 | [Anatomy of High-Performance Matrix Multiplication](#16)          | Chunyang Xiang|            |
 | 8    | 5/26 | DFT overview|Yujin Yan|            |
-| 9    | 6/2  |           | Han BAO  |            |
+| 9    | 6/2  | [Ansor : Generating High-Performance Tensor Programs for Deep Learning](#19)| Han BAO |            |
 | 10   | 6/9  |           |  |            |
 | 11   | 6/16 |                                                                                           |           |            |
 | 12   | 6/23 |                                                                                           |           |            |
@@ -165,6 +165,26 @@
 >
 > **ACM Transactions on Mathematical Software, 2008**
 
+###### 17
+
+[DeepONet: Learning nonlinear operators for identifying differential equations based on the universal approximation theorem of operators](http://arxiv-export-lb.library.cornell.edu/pdf/1910.03193)
+> Lu Lu, Pengzhan Jin, and George Em Karniadakis
+>
+> **ArXiv 2020**
+
+###### 18
+
+[FOURIER NEURAL OPERATOR FOR PARAMETRIC PARTIAL DIFFERENTIAL EQUATIONS](https://arxiv.org/pdf/2010.08895v2.pdf)
+> Zongyi Li, et al
+>
+> **ICLR 2021**
+
+###### 19
+
+[Ansor : Generating High-Performance Tensor Programs for Deep Learning]()
+> Lianmin Zheng, et al
+>
+> **Arxiv 2020**
 
 <br>[⬆ Back to top](#-reading-materials)
 
