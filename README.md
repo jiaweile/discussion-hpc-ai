@@ -11,10 +11,10 @@
 
 <div align="center">
   <h3>Let's start!</h3>
-  <h1> Week 6 </h1>
-  <h1> DP-GEN: A concurrent learning platform for the generation of reliable deep learning based potential energy models </h1>
-  <strong> Yun ZHONG </strong>
-  <h6> May 12, 3:00 pm -- 5:00 pm</h6>
+  <h1> Week 7 </h1>
+  <h1> Anatomy of High-Performance Matrix Multiplication </h1>
+  <strong> Chunyang Xiang </strong>
+  <h6> May 19, 3:00 pm -- 5:00 pm</h6>
 </div>
 
 
@@ -36,7 +36,7 @@
 | 7    | 5/19 | [Anatomy of High-Performance Matrix Multiplication](#16)          | Chunyang Xiang|            |
 | 8    | 5/26 | DFT overview|Yujin Yan|            |
 | 9    | 6/2  | [Ansor : Generating High-Performance Tensor Programs for Deep Learning](#19)| Han BAO |            |
-| 10   | 6/9  |           |  |            |
+| 10   | 6/9  |           |Liping Liu |            |
 | 11   | 6/16 |                                                                                           |           |            |
 | 12   | 6/23 |                                                                                           |           |            |
 | 13   | 6/30 |                                                                                           |           |            |
