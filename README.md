@@ -11,10 +11,10 @@
 
 <div align="center">
   <h3>Let's start!</h3>
-  <h1> Week 7 </h1>
-  <h1> Anatomy of High-Performance Matrix Multiplication </h1>
-  <strong> Chunyang Xiang </strong>
-  <h6> May 19, 3:00 pm -- 5:00 pm</h6>
+  <h1> Week 8 </h1>
+  <h1> DFT overview </h1>
+  <strong> Yujin Yan </strong>
+  <h6> May 26, 3:00 pm -- 5:00 pm</h6>
 </div>
 
 
