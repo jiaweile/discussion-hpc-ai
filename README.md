@@ -14,7 +14,7 @@
   <h1> Week 8 </h1>
   <h1> DFT overview </h1>
   <strong> Yujin Yan </strong>
-  <h6> May 26, 3:00 pm -- 5:00 pm</h6>
+  <h6> May 28 (Friday), 3:00 pm -- 5:00 pm</h6>
 </div>
 
 
@@ -34,7 +34,7 @@
 | 5    | 4/28 | [SchNet: A continuous-filter convolutional neural network for modeling quantum interactions](#11) | Tao LIU        |            |
 | 6    | 5/12 | [DP-GEN](#3)          | Yun ZHONG      |            |
 | 7    | 5/19 | [Anatomy of High-Performance Matrix Multiplication](#16)          | Chunyang Xiang|            |
-| 8    | 5/26 | DFT overview|Yujin Yan|            |
+| 8    | 5/28 | DFT overview|Yujin Yan|            |
 | 9    | 6/2  | [Ansor : Generating High-Performance Tensor Programs for Deep Learning](#19)| Han BAO |            |
 | 10   | 6/9  |           |Liping Liu |            |
 | 11   | 6/16 |                                                                                           |           |            |
