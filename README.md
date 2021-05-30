@@ -11,10 +11,10 @@
 
 <div align="center">
   <h3>Let's start!</h3>
-  <h1> Week 8 </h1>
-  <h1> DFT overview </h1>
-  <strong> Yujin Yan </strong>
-  <h6> May 28 (Friday), 3:00 pm -- 5:00 pm</h6>
+  <h1> Week 9 </h1>
+  <h1> Ansor: Generating High-Performance Tensor Programs for Deep Learning </h1>
+  <strong> Han BAO </strong>
+  <h6> June 2, 3:00 pm -- 5:00 pm</h6>
 </div>
 
 
@@ -36,8 +36,8 @@
 | 7    | 5/19 | [Anatomy of High-Performance Matrix Multiplication](#16)          | Chunyang Xiang|            |
 | 8    | 5/28 | DFT overview|Yujin Yan|            |
 | 9    | 6/2  | [Ansor : Generating High-Performance Tensor Programs for Deep Learning](#19)| Han BAO |            |
-| 10   | 6/9  |           |Liping Liu |            |
-| 11   | 6/16 |                                                                                           |           |            |
+| 10   | 6/9  |           |Tong ZHAO |            |
+| 11   | 6/16 |                                                                                           | Guofeng Feng |            |
 | 12   | 6/23 |                                                                                           |           |            |
 | 13   | 6/30 |                                                                                           |           |            |
 | 14   | 7/7  |                                                                                           |           |            |
@@ -181,7 +181,7 @@
 
 ###### 19
 
-[Ansor : Generating High-Performance Tensor Programs for Deep Learning]()
+[Ansor : Generating High-Performance Tensor Programs for Deep Learning](https://www.usenix.org/conference/osdi20/presentation/zheng)
 > Lianmin Zheng, et al
 >
 > **Arxiv 2020**
