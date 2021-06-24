@@ -11,10 +11,10 @@
 
 <div align="center">
   <h3>Let's start!</h3>
-  <h1> Week 11 </h1>
-  <h1> A Systematic Approach to Improving Data Locality Across Fourier Transforms and Linear Algebra Operations </h1>
-  <strong> Guofeng Feng </strong>
-  <h6> June 23, 3:00 pm -- 5:00 pm</h6>
+  <h1> Week 12 </h1>
+  <h1> Deeponet </h1>
+  <strong> Rongrong Liu </strong>
+  <h6> June 30, 3:00 pm -- 5:00 pm</h6>
 </div>
 
 
@@ -23,7 +23,7 @@
 ## 📌 Schedule (2021)
 
 
-🆕✨🔨: **reserve the time** \(please contact husiyu@ncic.ac.cn to book time slot for your talk\) for s year 2021
+🆕✨🔨: **reserve the time** \(please contact husiyu@ncic.ac.cn to book time slot for your talk\) for syyear 2021
 
 | Week | Date | Topic                                                                                     | Speaker               | References |
 | ---- | ---- | :---------------------------------------------------------------------------------------: | --------------------- | ---------- |
@@ -37,11 +37,12 @@
 | 8    | 5/28 | DFT overview|Yujin Yan|            |
 | 9    | 6/2  | [Ansor : Generating High-Performance Tensor Programs for Deep Learning](#19)| Han BAO |            |
 | 10   | 6/9  | DFT overview          |Siyu Hu|            |
-| 11   | 6/23 | [A Systematic Approach to Improving Data Locality Across Fourier Transforms and Linear Algebra Operations](#)| Guofeng Feng |            |
+| 11   | 6/23 | [A Systematic Approach to Improving Data Locality Across Fourier Transforms and Linear Algebra Operations](#20)| Guofeng Feng |            |
 | 12   | 6/30 | [DeepONet](#17)  |Rongrong Liu|            |
-| 13   | 7/7  |                                                                                           |           |            |
-| 14   | 7/14 |                                                                                           |           |            |
-
+| 13   | 7/7  | [FOURIER NEURAL OPERATOR FOR PARAMETRIC PARTIAL DIFFERENTIAL EQUATIONS](#18)|Siyu Hu|            |
+| 14   | 7/14 |                                                                         | Zhuoqiang Guo |            |
+| 15   | 7/21 |     | Tao LIU |  |
+| 16   |
 
 ## 🗂 Reading materials 
 <!----
