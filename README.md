@@ -11,10 +11,10 @@
 
 <div align="center">
   <h3>Let's start!</h3>
-  <h1> Week 12 </h1>
-  <h1> Deeponet </h1>
-  <strong> Rongrong Liu </strong>
-  <h6> June 30, 3:00 pm -- 5:00 pm</h6>
+  <h1> Week 13 </h1>
+  <h1> DNNFusion </h1>
+  <strong> Zhuoqiang Guo </strong>
+  <h6> July 14, 3:00 pm -- 5:00 pm</h6>
 </div>
 
 
@@ -39,10 +39,11 @@
 | 10   | 6/9  | DFT overview          |Siyu Hu|            |
 | 11   | 6/23 | [A Systematic Approach to Improving Data Locality Across Fourier Transforms and Linear Algebra Operations](#20)| Guofeng Feng |            |
 | 12   | 6/30 | [DeepONet](#17)  |Rongrong Liu|            |
-| 13   | 7/7  | [FOURIER NEURAL OPERATOR FOR PARAMETRIC PARTIAL DIFFERENTIAL EQUATIONS](#18)|Siyu Hu|            |
-| 14   | 7/14 |                                                                         | Zhuoqiang Guo |            |
-| 15   | 7/21 |     | Tao LIU |  |
-| 16   |
+| 13   | 7/14 | [DNNFusion: Accelerating Deep Neural Networks Execution with Advanced Operator Fusion](#21) | Zhuoqiang Guo |            |
+| 14   | 7/21 |     | Tao LIU |  |
+| 15   |
+
+
 
 ## 🗂 Reading materials 
 <!----
@@ -193,6 +194,14 @@
 > Doru Thom Popovici, et al
 >
 > **ICS 21**
+
+#####  21
+
+[DNNFusion: Accelerating Deep Neural Networks Execution with Advanced Operator Fusion](https://pldi21.sigplan.org/details/pldi-2021-papers/58/DNNFusion-Accelerating-Deep-Neural-Networks-Execution-with-Advanced-Operator-Fusion)
+> Wei Niu, Jiexiong Guan, Yanzhi Wang, Gagan Agrawal, Bin Ren
+> 
+> **PLDI2021**
+
 
 <br>[⬆ Back to top](#-reading-materials)
 
