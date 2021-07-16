@@ -11,10 +11,10 @@
 
 <div align="center">
   <h3>Let's start!</h3>
-  <h1> Week 13 </h1>
-  <h1> DNNFusion </h1>
-  <strong> Zhuoqiang Guo </strong>
-  <h6> July 14, 3:00 pm -- 5:00 pm</h6>
+  <h1> Week 14 </h1>
+  <h1> FNO </h1>
+  <strong> Siyu Hu </strong>
+  <h6> July 21, 3:00 pm -- 5:00 pm</h6>
 </div>
 
 
@@ -40,8 +40,8 @@
 | 11   | 6/23 | [A Systematic Approach to Improving Data Locality Across Fourier Transforms and Linear Algebra Operations](#20)| Guofeng Feng |            |
 | 12   | 6/30 | [DeepONet](#17)  |Rongrong Liu|            |
 | 13   | 7/14 | [DNNFusion: Accelerating Deep Neural Networks Execution with Advanced Operator Fusion](#21) | Zhuoqiang Guo |            |
-| 14   | 7/21 |     | Tao LIU |  |
-| 15   |
+| 14   | 7/21 | [FNO](#18)    | Siyu Hu |  |
+| 15   | 7/28 |  | Yun ZHONG | |
 
 
 
