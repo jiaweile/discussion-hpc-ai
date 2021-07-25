@@ -11,10 +11,10 @@
 
 <div align="center">
   <h3>Let's start!</h3>
-  <h1> Week 14 </h1>
-  <h1> FNO </h1>
-  <strong> Siyu Hu </strong>
-  <h6> July 21, 3:00 pm -- 5:00 pm</h6>
+  <h1> Week 15 </h1>
+  <h1> GEMS </h1>
+  <strong> Yun ZHONG </strong>
+  <h6> July 28, 3:00 pm -- 5:00 pm</h6>
 </div>
 
 
@@ -41,7 +41,7 @@
 | 12   | 6/30 | [DeepONet](#17)  |Rongrong Liu|            |
 | 13   | 7/14 | [DNNFusion: Accelerating Deep Neural Networks Execution with Advanced Operator Fusion](#21) | Zhuoqiang Guo |            |
 | 14   | 7/21 | [FNO](#18)    | Siyu Hu |  |
-| 15   | 7/28 |  | Yun ZHONG | |
+| 15   | 7/28 | [GEMS](#23) | Yun ZHONG | |
 
 
 
@@ -201,6 +201,27 @@
 > Wei Niu, Jiexiong Guan, Yanzhi Wang, Gagan Agrawal, Bin Ren
 > 
 > **PLDI2021**
+
+##### 22
+
+[BiQGEMM: Matrix Multiplication with Lookup Table For Binary-Coding-based Quantized DNNs](https://arxiv.org/abs/2005.09904)
+> Yongkweon Jeon, Baeseong Park, Se Jung Kwon, Byeongwook Kim, Jeongin Yun, Dongsoo Lee
+>
+> **Arxiv2021**
+
+##### 23
+
+[GEMS: GPU-Enabled Memory-Aware Model-Parallelism System for Distributed DNN Training](https://ieeexplore.ieee.org/document/9355254)
+> Arpan Jain; Ammar Ahmad Awan, et al
+>
+> **SC20**
+
+#####24
+
+[Density matrix quantum circuit simulation via the BSP machine on modern GPU clusters](https://dl.acm.org/doi/10.5555/3433701.3433718)
+> ANG LI,  OMER SUBASI, et al
+>
+> **SC20**
 
 
 <br>[⬆ Back to top](#-reading-materials)
