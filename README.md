@@ -12,8 +12,8 @@
 <div align="center">
   <h3>Let's start!</h3>
   <h1> Week 16 </h1>
-  <h1> *****happy holiday***** </h1>
-  <strong> Chunyang Xiang </strong>
+  <h1> Sparse GPU Kernels for Deep Learning  </h1>
+  <strong> Han BAO </strong>
   <h6> August 18, 3:00 pm -- 5:00 pm</h6>
 </div>
 
@@ -42,8 +42,8 @@
 | 13   | 7/14 | [DNNFusion: Accelerating Deep Neural Networks Execution with Advanced Operator Fusion](#21) | Zhuoqiang Guo |            |
 | 14   | 7/21 | [FNO](#18)    | Siyu Hu |  |
 | 15   | 7/28 | [GEMS](#23) | Yun ZHONG | |
-| 16   | 8/18 |           |Chunyang Xiang | |
-| 17   | 8/25 |             |Han BAO| |
+| 16   | 8/18 | [Sparse GPU Kernels for Deep Learning](#25) |Han BAO| |
+| 17   | 8/25 |             |Chunyang Xiang| |
 
 
 ## 🗂 Reading materials 
@@ -224,6 +224,12 @@
 >
 > **SC20**
 
+#####25
+
+[Sparse GPU Kernels for Deep Learning](https://ieeexplore.ieee.org/abstract/document/9355309)
+> Trevor Gale, et al
+>
+> **SC20**
 
 <br>[⬆ Back to top](#-reading-materials)
 
