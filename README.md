@@ -11,10 +11,10 @@
 
 <div align="center">
   <h3>Let's start!</h3>
-  <h1> Week 16 </h1>
-  <h1> Sparse GPU Kernels for Deep Learning  </h1>
-  <strong> Han BAO </strong>
-  <h6> August 18, 3:00 pm -- 5:00 pm</h6>
+  <h1> Week 17 </h1>
+  <h1> yaSpMV: Yet Another SpMV Framework on GPUs </h1>
+  <strong> Chunyang Xiang </strong>
+  <h6> August 25, 3:00 pm -- 5:00 pm</h6>
 </div>
 
 
@@ -43,8 +43,8 @@
 | 14   | 7/21 | [FNO](#18)    | Siyu Hu |  |
 | 15   | 7/28 | [GEMS](#23) | Yun ZHONG | |
 | 16   | 8/18 | [Sparse GPU Kernels for Deep Learning](#25) |Han BAO| |
-| 17   | 8/25 |             |Chunyang Xiang| |
-
+| 17   | 8/25 | [yaSpMV: Yet Another SpMV Framework on GPUs](#26) |Chunyang Xiang| |
+| 18   | 8/31 | [Solving ill-posed inverse problems using iterative deep neural networks](#27)|Haibo Li|
 
 ## 🗂 Reading materials 
 <!----
@@ -230,6 +230,21 @@
 > Trevor Gale, et al
 >
 > **SC20**
+
+#####26
+
+[yaSpMV: Yet Another SpMV Framework on GPUs](https://dl.acm.org/doi/10.1145/2692916.2555255)
+> Shengen Yan, et al
+>
+> **ACM SIGPLAN Notices,2014**
+
+#####27
+
+[Solving ill-posed inverse problems using iterative deep neural networks](https://arxiv.org/abs/1704.04058)
+> Jonas Adler, et al
+>
+> **ArXiv2017**
+
 
 <br>[⬆ Back to top](#-reading-materials)
 
