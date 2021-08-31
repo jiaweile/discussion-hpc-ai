@@ -11,10 +11,10 @@
 
 <div align="center">
   <h3>Let's start!</h3>
-  <h1> Week 17 </h1>
-  <h1> yaSpMV: Yet Another SpMV Framework on GPUs </h1>
-  <strong> Chunyang Xiang </strong>
-  <h6> August 25, 3:00 pm -- 5:00 pm</h6>
+  <h1> Week 18 </h1>
+  <h1> Solving ill-posed inverse problems using iterative deep neural networks </h1>
+  <strong> Haibo Li </strong>
+  <h6> September 1, 3:00 pm -- 5:00 pm</h6>
 </div>
 
 
