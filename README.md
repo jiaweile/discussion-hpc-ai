@@ -11,10 +11,10 @@
 
 <div align="center">
   <h3>Let's start!</h3>
-  <h1> Week 18 </h1>
-  <h1> Solving ill-posed inverse problems using iterative deep neural networks </h1>
-  <strong> Haibo Li </strong>
-  <h6> September 1, 3:00 pm -- 5:00 pm</h6>
+  <h1> Week 19 </h1>
+  <h1> Machine-learning interatomic potentials for materials science</h1>
+  <strong> Yujin Yan </strong>
+  <h6> September 8, 3:00 pm -- 5:00 pm</h6>
 </div>
 
 
@@ -25,27 +25,27 @@
 
 🆕✨🔨: **reserve the time** \(please contact husiyu@ncic.ac.cn to book time slot for your talk\) for syyear 2021
 
-| Week | Date | Topic                                                                                     | Speaker               | References |
-| ---- | ---- | :---------------------------------------------------------------------------------------: | --------------------- | ---------- |
-| 1    | 3/24 | DFT overview <br> [selected inversion](#1) <br> the DeepMD-kit on the DFT algorithm. | Yujin Yan<br>Siyu HU<br>Weile Jia |            |
-| 2    | 3/31 | [deep learning for symbolic mathematics & Seq2Seq](#14)   | Junqing Gong |            |
-| 3    | 4/7  | Application of Quantum Computing in Quantum Chemistry     | Zhendong Li  |            |
-| 4    | 4/21 | [Accelerating Sparse DNN Models without Hardware-Support via Tile-Wise Sparsity](#15) | Zhuoqiang Guo|            |
-| 5    | 4/28 | [SchNet: A continuous-filter convolutional neural network for modeling quantum interactions](#11) | Tao LIU        |            |
-| 6    | 5/12 | [DP-GEN](#3)          | Yun ZHONG      |            |
-| 7    | 5/19 | [Anatomy of High-Performance Matrix Multiplication](#16)          | Chunyang Xiang|            |
-| 8    | 5/28 | DFT overview|Yujin Yan|            |
-| 9    | 6/2  | [Ansor : Generating High-Performance Tensor Programs for Deep Learning](#19)| Han BAO |            |
-| 10   | 6/9  | DFT overview          |Siyu Hu|            |
-| 11   | 6/23 | [A Systematic Approach to Improving Data Locality Across Fourier Transforms and Linear Algebra Operations](#20)| Guofeng Feng |            |
-| 12   | 6/30 | [DeepONet](#17)  |Rongrong Liu|            |
-| 13   | 7/14 | [DNNFusion: Accelerating Deep Neural Networks Execution with Advanced Operator Fusion](#21) | Zhuoqiang Guo |            |
-| 14   | 7/21 | [FNO](#18)    | Siyu Hu |  |
-| 15   | 7/28 | [GEMS](#23) | Yun ZHONG | |
-| 16   | 8/18 | [Sparse GPU Kernels for Deep Learning](#25) |Han BAO| |
-| 17   | 8/25 | [yaSpMV: Yet Another SpMV Framework on GPUs](#26) |Chunyang Xiang| |
-| 18   | 8/31 | [Solving ill-posed inverse problems using iterative deep neural networks](#27)|Haibo Li|
-
+| Week | Date | Topic                                                                                     | Speaker               |
+| ---- | ---- | :---------------------------------------------------------------------------------------: | --------------------- |
+| 1    | 3/24 | DFT overview <br> [selected inversion](#1) <br> the DeepMD-kit on the DFT algorithm. | Yujin Yan<br>Siyu HU<br>Weile Jia |            
+| 2    | 3/31 | [deep learning for symbolic mathematics & Seq2Seq](#14)   | Junqing Gong |            
+| 3    | 4/7  | Application of Quantum Computing in Quantum Chemistry     | Zhendong Li  |            
+| 4    | 4/21 | [Accelerating Sparse DNN Models without Hardware-Support via Tile-Wise Sparsity](#15) | Zhuoqiang Guo|            
+| 5    | 4/28 | [SchNet: A continuous-filter convolutional neural network for modeling quantum interactions](#11) | Tao LIU        |            
+| 6    | 5/12 | [DP-GEN](#3)          | Yun ZHONG      |            
+| 7    | 5/19 | [Anatomy of High-Performance Matrix Multiplication](#16)          | Chunyang Xiang|            
+| 8    | 5/28 | DFT overview|Yujin Yan|            
+| 9    | 6/2  | [Ansor : Generating High-Performance Tensor Programs for Deep Learning](#19)| Han BAO |            
+| 10   | 6/9  | DFT overview          |Siyu Hu|            
+| 11   | 6/23 | [A Systematic Approach to Improving Data Locality Across Fourier Transforms and Linear Algebra Operations](#20)| Guofeng Feng |            
+| 12   | 6/30 | [DeepONet](#17)  |Rongrong Liu|            
+| 13   | 7/14 | [DNNFusion: Accelerating Deep Neural Networks Execution with Advanced Operator Fusion](#21) | Zhuoqiang Guo |            
+| 14   | 7/21 | [FNO](#18)    | Siyu Hu |  
+| 15   | 7/28 | [GEMS](#23) | Yun ZHONG | 
+| 16   | 8/18 | [Sparse GPU Kernels for Deep Learning](#25) |Han BAO|
+| 17   | 8/25 | [yaSpMV: Yet Another SpMV Framework on GPUs](#26) |Chunyang Xiang| 
+| 18   | 9/1  | [Solving ill-posed inverse problems using iterative deep neural networks](#27)|Haibo Li|
+| 19   | 9/8  | [Machine-learning interatomic potentials for materials science](#28)|Yujin Yan|
 ## 🗂 Reading materials 
 <!----
 <details>
@@ -244,6 +244,13 @@
 > Jonas Adler, et al
 >
 > **ArXiv2017**
+
+#####28
+
+[Machine-learning interatomic potentials for materials science](https://www.sciencedirect.com/science/article/abs/pii/S1359645421003608)
+> Y. Mishin
+>
+> **Arxiv2021**
 
 
 <br>[⬆ Back to top](#-reading-materials)
