@@ -11,10 +11,10 @@
 
 <div align="center">
   <h3>Let's start!</h3>
-  <h1> Week 19 </h1>
-  <h1> Machine-learning interatomic potentials for materials science</h1>
-  <strong> Yujin Yan </strong>
-  <h6> September 8, 3:00 pm -- 5:00 pm</h6>
+  <h1> Week 20 </h1>
+  <h1> DFT overview </h1>
+  <strong> Tong ZHAO </strong>
+  <h6> September 15, 3:00 pm -- 5:00 pm</h6>
 </div>
 
 
@@ -46,6 +46,7 @@
 | 17   | 8/25 | [yaSpMV: Yet Another SpMV Framework on GPUs](#26) |Chunyang Xiang| 
 | 18   | 9/1  | [Solving ill-posed inverse problems using iterative deep neural networks](#27)|Haibo Li|
 | 19   | 9/8  | [Machine-learning interatomic potentials for materials science](#28)|Yujin Yan|
+| 20   | 9/15 | DFT overview | Tong ZHAO |
 ## 🗂 Reading materials 
 <!----
 <details>
