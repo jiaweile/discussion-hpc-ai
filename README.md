@@ -2,7 +2,7 @@
 
 ### 🌟 Virtual HPC+AI seminar, 2021 Spring to Fall
 
-- **When:** 🕒 WMonday  9:30 am -- 11:30 am
+- **When:** 🕒 Monday  9:30 am -- 11:30 am
 - **Where:** 💻 Wechat meeting. 
   Please send me an email (jiaweile@ict.ac.cn) to ask for the meeting id.
 - **Moderator**: Siyu Hu
@@ -23,7 +23,7 @@
 ## 📌 Schedule (2021)
 
 
-🆕✨🔨: **reserve the time** \(please contact husiyu@ncic.ac.cn to book time slot for your talk\) for syyear 2021
+🆕✨🔨: **reserve the time** * please contact husiyu@ncic.ac.cn to book time slot for your talk for the year 2021
 
 | Week | Date | Topic                                                                                     | Speaker               |
 | ---- | ---- | :---------------------------------------------------------------------------------------: | --------------------- |
