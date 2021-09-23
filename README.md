@@ -2,7 +2,7 @@
 
 ### 🌟 Virtual HPC+AI seminar, 2021 Spring to Fall
 
-- **When:** 🕒 Wednesday  3:00 pm -- 5:00 pm
+- **When:** 🕒 WMonday  9:30 am -- 11:30 am
 - **Where:** 💻 Wechat meeting. 
   Please send me an email (jiaweile@ict.ac.cn) to ask for the meeting id.
 - **Moderator**: Siyu Hu
@@ -11,10 +11,10 @@
 
 <div align="center">
   <h3>Let's start!</h3>
-  <h1> Week 20 </h1>
-  <h1> DFT overview </h1>
-  <strong> Tong ZHAO </strong>
-  <h6> September 15, 3:00 pm -- 5:00 pm</h6>
+  <h1> Week 21 </h1>
+  <h1> DCNv2 </h1>
+  <strong> Siyu Hu </strong>
+  <h6> September 27, 9:30 am -- 11:30 pm</h6>
 </div>
 
 
@@ -47,6 +47,10 @@
 | 18   | 9/1  | [Solving ill-posed inverse problems using iterative deep neural networks](#27)|Haibo Li|
 | 19   | 9/8  | [Machine-learning interatomic potentials for materials science](#28)|Yujin Yan|
 | 20   | 9/15 | DFT overview | Tong ZHAO |
+| 21   | 9/27 | [DCNV2](#29) | Siyu Hu |
+
+
+
 ## 🗂 Reading materials 
 <!----
 <details>
@@ -253,6 +257,12 @@
 >
 > **Arxiv2021**
 
+#####29
+
+[DCN V2: Improved Deep & Cross Network and Practical Lessons for Web-scale Learning to Rank Systems](https://arxiv.org/pdf/2008.13535.pdf)
+> Ruoxi Wang, et al
+>
+> **CS,IR,2020**
 
 <br>[⬆ Back to top](#-reading-materials)
 
