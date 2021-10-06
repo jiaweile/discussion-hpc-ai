@@ -2,7 +2,7 @@
 
 ### 🌟 Virtual HPC+AI seminar, 2021 Spring to Fall
 
-- **When:** 🕒 Monday  9:30 am -- 11:30 am
+- **When:** 🕒 Monday  910:30 am -- 12:30 am
 - **Where:** 💻 Wechat meeting. 
   Please send me an email (jiaweile@ict.ac.cn) to ask for the meeting id.
 - **Moderator**: Siyu Hu
@@ -11,10 +11,10 @@
 
 <div align="center">
   <h3>Let's start!</h3>
-  <h1> Week 21 </h1>
-  <h1> DCNv2 </h1>
-  <strong> Siyu Hu </strong>
-  <h6> September 27, 9:30 am -- 11:30 pm</h6>
+  <h1> Week 22 </h1>
+  <h1> Extending the limit of molecular dynamics with ab initio accuracy to 10 billion atoms </h1>
+  <strong> Zhuoqiang Guo </strong>
+  <h6> Octorber 11, 10:30 am -- 12:30 pm</h6>
 </div>
 
 
@@ -48,7 +48,7 @@
 | 19   | 9/8  | [Machine-learning interatomic potentials for materials science](#28)|Yujin Yan|
 | 20   | 9/15 | DFT overview | Tong ZHAO |
 | 21   | 9/27 | [DCNV2](#29) | Siyu Hu |
-
+| 22   | 10/11| Extending the limit of molecular dynamics with ab initio accuracy to 10 billion atoms | Zhuoqiang Guo |
 
 
 ## 🗂 Reading materials 
