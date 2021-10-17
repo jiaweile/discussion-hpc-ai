@@ -11,10 +11,10 @@
 
 <div align="center">
   <h3>Let's start!</h3>
-  <h1> Week 22 </h1>
-  <h1> Extending the limit of molecular dynamics with ab initio accuracy to 10 billion atoms </h1>
-  <strong> Zhuoqiang Guo </strong>
-  <h6> Octorber 11, 10:30 am -- 12:30 pm</h6>
+  <h1> Week 23 </h1>
+  <h1> DFT review </h1>
+  <strong> Tong ZHAO </strong>
+  <h6> Octorber 18, 10:30 am -- 12:30 pm</h6>
 </div>
 
 
@@ -49,6 +49,9 @@
 | 20   | 9/15 | DFT overview | Tong ZHAO |
 | 21   | 9/27 | [DCNV2](#29) | Siyu Hu |
 | 22   | 10/11| Extending the limit of molecular dynamics with ab initio accuracy to 10 billion atoms | Zhuoqiang Guo |
+| 23   | 10/18| DFT review | Tong ZHAO |
+
+
 
 
 ## 🗂 Reading materials 
