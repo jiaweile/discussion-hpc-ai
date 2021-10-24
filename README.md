@@ -11,10 +11,10 @@
 
 <div align="center">
   <h3>Let's start!</h3>
-  <h1> Week 23 </h1>
-  <h1> DFT review </h1>
-  <strong> Tong ZHAO </strong>
-  <h6> Octorber 18, 10:30 am -- 12:30 pm</h6>
+  <h1> Week 24 </h1>
+  <h1> A Coordinated Tiling and Batching Framework for Efficient GEMM on GPUs </h1>
+  <strong> Chunyang Xiang </strong>
+  <h6> Octorber 25, 10:30 am -- 12:30 pm</h6>
 </div>
 
 
@@ -50,7 +50,7 @@
 | 21   | 9/27 | [DCNV2](#29) | Siyu Hu |
 | 22   | 10/11| Extending the limit of molecular dynamics with ab initio accuracy to 10 billion atoms | Zhuoqiang Guo |
 | 23   | 10/18| DFT review | Tong ZHAO |
-
+| 24   | 10/25| A Coordinated Tiling and Batching Framework for Efficient GEMM on GPUs| Chunyang Xiang |
 
 
 
