@@ -11,10 +11,10 @@
 
 <div align="center">
   <h3>Let's start!</h3>
-  <h1> Week 24 </h1>
-  <h1> A Coordinated Tiling and Batching Framework for Efficient GEMM on GPUs </h1>
-  <strong> Chunyang Xiang </strong>
-  <h6> Octorber 25, 10:30 am -- 12:30 pm</h6>
+  <h1> Week 25 </h1>
+  <h1> SFLU </h1>
+  <strong> Zhou JIN </strong>
+  <h6> November 1, 10:30 am -- 12:30 pm</h6>
 </div>
 
 
@@ -51,7 +51,7 @@
 | 22   | 10/11| Extending the limit of molecular dynamics with ab initio accuracy to 10 billion atoms | Zhuoqiang Guo |
 | 23   | 10/18| DFT review | Tong ZHAO |
 | 24   | 10/25| A Coordinated Tiling and Batching Framework for Efficient GEMM on GPUs| Chunyang Xiang |
-
+| 25   | 11.1 | [SFLU](#30) | Zhou JIN |
 
 
 ## 🗂 Reading materials 
@@ -266,6 +266,13 @@
 > Ruoxi Wang, et al
 >
 > **CS,IR,2020**
+
+#####30
+
+[SFLU:Synchronization-Free Sparse LU Factorization for Fast Circuit Simulation on GPUs](https://www.ssslab.cn/assets/papers/2021-zhao-sflu.pdf)
+> Jianqi Zhao, Yao Wen, Yuchen Luo, Zhou Jin, Weifeng Liu, et.al
+>
+> **SSSLAB**
 
 <br>[⬆ Back to top](#-reading-materials)
 
