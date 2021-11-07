@@ -11,10 +11,10 @@
 
 <div align="center">
   <h3>Let's start!</h3>
-  <h1> Week 25 </h1>
-  <h1> SFLU </h1>
-  <strong> Zhou JIN </strong>
-  <h6> November 1, 10:30 am -- 12:30 pm</h6>
+  <h1> Week 26 </h1>
+  <h1> SelInv </h1>
+  <strong> Haibo Li </strong>
+  <h6> November 8, 10:30 am -- 12:30 pm</h6>
 </div>
 
 
@@ -52,7 +52,7 @@
 | 23   | 10/18| DFT review | Tong ZHAO |
 | 24   | 10/25| A Coordinated Tiling and Batching Framework for Efficient GEMM on GPUs| Chunyang Xiang |
 | 25   | 11.1 | [SFLU](#30) | Zhou JIN |
-
+| 26   | 11.8 | [SelInv](#31) | Haibo Li |
 
 ## 🗂 Reading materials 
 <!----
@@ -273,6 +273,13 @@
 > Jianqi Zhao, Yao Wen, Yuchen Luo, Zhou Jin, Weifeng Liu, et.al
 >
 > **SSSLAB**
+
+#####31
+
+[SelInv—An Algorithm for Selected Inversion of a Sparse Symmetric Matrix](https://dl.acm.org/doi/10.1145/1916461.1916464)
+> Lin Lin, et al
+>
+> **ACM 2011**
 
 <br>[⬆ Back to top](#-reading-materials)
 
