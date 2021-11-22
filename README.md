@@ -2,8 +2,8 @@
 
 ### 🌟 Virtual HPC+AI seminar, 2021 Spring to Fall
 
-- **When:** 🕒 Monday  910:30 am -- 12:30 am
-- **Where:** 💻 Wechat meeting. 
+- **When:** 🕒 Monday  10:30 am -- 12:30 am
+- **Where:** 💻 Wechat meeting.
   Please send me an email (jiaweile@ict.ac.cn) to ask for the meeting id.
 - **Moderator**: Siyu Hu
 
@@ -11,10 +11,10 @@
 
 <div align="center">
   <h3>Let's start!</h3>
-  <h1> Week 27 </h1>
-  <h1> SCF </h1>
-  <strong> Yujin Yan; Haibo Li </strong>
-  <h6> November 15, 10:30 am -- 12:30 pm</h6>
+  <h1> Week 28 </h1>
+  <h1> Fourier Transformation </h1>
+  <strong> Tong ZHAO </strong>
+  <h6> November 22, 10:30 am -- 12:30 pm</h6>
 </div>
 
 
@@ -53,7 +53,8 @@
 | 24   | 10/25| A Coordinated Tiling and Batching Framework for Efficient GEMM on GPUs| Chunyang Xiang |
 | 25   | 11.1 | [SFLU](#30) | Zhou JIN |
 | 26   | 11.8 | [SelInv](#31) | Haibo Li |
-| 27   | 11.15 | [SCF](#23) | Yujin Yan; Haibo Li | 
+| 27   | 11.15 | [SCF](#23) | Yujin Yan; Haibo Li |
+| 28   | 11.22 | Fourier transformation | Tong ZHAO |
 
 
 
