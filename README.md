@@ -11,10 +11,10 @@
 
 <div align="center">
   <h3>Let's start!</h3>
-  <h1> Week 28 </h1>
-  <h1> Fourier Transformation </h1>
-  <strong> Tong ZHAO </strong>
-  <h6> November 22, 10:30 am -- 12:30 pm</h6>
+  <h1> Week 29 </h1>
+  <h1> AlphaFold2 </h1>
+  <strong> Siyu Hu </strong>
+  <h6> November 29, 10:30 am -- 12:30 pm</h6>
 </div>
 
 
@@ -55,7 +55,7 @@
 | 26   | 11.8 | [SelInv](#31) | Haibo Li |
 | 27   | 11.15 | [SCF](#23) | Yujin Yan; Haibo Li |
 | 28   | 11.22 | Fourier transformation | Tong ZHAO |
-
+| 29   | 11.29 | AlphaFold2 | Siyu Hu |
 
 
 ## 🗂 Reading materials 
