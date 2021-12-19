@@ -55,7 +55,10 @@
 | 26   | 11.8 | [SelInv](#31) | Haibo Li |
 | 27   | 11.15 | [SCF](#23) | Yujin Yan; Haibo Li |
 | 28   | 11.22 | Fourier transformation | Tong ZHAO |
-| 29   | 11.29 | AlphaFold2 | Siyu Hu |
+| 29   | 11.29 | Fast Fourier Transform | Tong Zhao |
+| 30   | 12.06 | Anton3 & CG method     | Bao Han, Li Haibo|
+| 31   | 12.13 | MP-2 on Summit and CG method  | Zhong Yun, Li Haibo|
+| 32   | 12.20 | Explicit and implicit methods | Weile Jia|
 
 
 ## 🗂 Reading materials 
